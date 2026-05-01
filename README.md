@@ -37,3 +37,11 @@ Complete the breadboard wiring as shown in the diagram below.
 
 ### Verification
 Open nano_led_chaser.ino using the Ardunio IDE, compile and upload the program, and you will see the LED chaser.
+
+![Alt text](media/video1.gif)
+![Alt text](media/video2.gif)
+
+# Demostration
+Please watch the [YouTube video](https://www.youtube.com/watch?v=AsbZ85If_fE&list=PLZe8C_hqhTIN1lKbFvRhIo5vDhdfYfLkI).
+
+[![LED Acrylic Lithography Module for Breadboards and Arduino](https://img.youtube.com/vi/AsbZ85If_fE/maxresdefault.jpg)](https://www.youtube.com/watch?v=AsbZ85If_fE&list=PLZe8C_hqhTIN1lKbFvRhIo5vDhdfYfLkI)
